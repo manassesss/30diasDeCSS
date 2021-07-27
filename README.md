@@ -15,6 +15,7 @@ Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não
 * Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 * O projeto deve ser concluído até 23:59
 
+A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDeCSS/wiki/Lista-de-Desafios) desse repositorio.
 ## Regras para mim
 
 * Se eu não concluir o projeto do dia, as 3 primeiras pessoas a apontar no Twitter @manassess_san receberão R$5 via Pix (total de R$15). Adicionando um pouco de motivação para mim! 😉 (Antes de solicitar qualquer coisa, verifique primeiro a hora no meu fuso horário - para mim, o fuso horário é Brasília - DF (GMT-3)) 💸
