@@ -37,4 +37,15 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * hover
 * -nth-child ()
 
+ ### Desafio Dia 02 - Loader animado
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-2/dia2.gif">
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-2)
+
+[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6826188526963499008/)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1420399188458758146)
+
+#### O que eu aprendi
+* [animations](https://www.w3schools.com/css/css3_animations.asp)
 
