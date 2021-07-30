@@ -30,12 +30,12 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 [Post Twitter](https://twitter.com/manassess_san/status/1420062463173832705)
 
 #### O que eu aprendi
-* Criar as camadas utilizando a tag <span>
-* tranformação 2D ou 3D de um elemento aqui
-* Transições CSS
-* Opacidade / transparência do CSS
-* hover
-* -nth-child ()
+* Criar as camadas utilizando a tag span
+* [tranformação 2D ou 3D de um elemento](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+* [Transições CSS](w3schools.com/css/css3_transitions.asp)
+* [Opacidade / transparência do CSS](https://www.w3schools.com/css/css_image_transparency.asp)
+* [:hover](https://www.w3schools.com/cssref/sel_hover.asp)
+* [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
 
 ### Desafio Dia 02 - Loader animado
 <img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-2/dia2.gif">
@@ -62,4 +62,18 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * [CSS Overflow] (https://www.w3schools.com/css/css_overflow.asp)
 * Mais sobre [animations](https://www.w3schools.com/css/css3_animations.asp)
 
+### Desafio Dia 03 - Mudança de cor de texto quando entra em outra div
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-4/dia4.gif">
 
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-4)
+
+[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6826871966448836608/)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1421105301588168708)
+
+#### O que eu aprendi
+* [:hover](https://www.w3schools.com/cssref/sel_hover.asp)
+* [::before](https://www.w3schools.com/cssref/sel_before.asp)
+* [::after](https://www.w3schools.com/cssref/sel_after.asp)
+* [transitions](w3schools.com/css/css3_transitions.asp)
+* [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
