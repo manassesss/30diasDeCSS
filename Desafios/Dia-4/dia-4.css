@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Righteous', cursive;
+}
+
+body{
+    background: #3D3830;
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    color: #FCE7C7;
+    width: 200px;
+    height: 60px;
+    background: none;
+    border: 5px solid;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-size: 16px;
+    position: relative;
+}
+
+.btn::before, .btn::after{
+    content: "";
+    position: absolute;
+    width: 14px;
+    height: 5px;
+    background: #E63500;
+    transform: skewX(50deg);
+    transition: .4s linear;
+}
+.btn::before {
+    top: -5px;
+    left: 10%;
+}
+
+.btn::after{
+    bottom: -5px;
+    right: 10%;
+}
+
+.btn:hover::before{
+    left: 80%;
+} 
+
+.btn:hover::after{
+    right: 80%;
+}
