@@ -12,12 +12,13 @@ body {
 }
 
 .pulse {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     background: #E63500;
     border-radius: 50%;
     text-align: center;
-    line-height: 100px;
+    line-height: 200px;
+    font-size: 15px;
     font-family: 'Patua One', cursive;
     color: #FCE7C7;
     text-transform: uppercase;
@@ -33,9 +34,9 @@ body {
         box-shadow: 0 0 0 50px rgba(230, 53, 0, 0), 0 0 0 0 rgba(230, 53, 0, .7);
     }
     75% {
-        box-shadow: 0 0 0 50px rgba(230, 53, 0, 0), 0 0 0 30px rgba(230, 53, 0, 0);
+        box-shadow: 0 0 0 50px rgba(230, 53, 0, 0), 0 0 0 50px rgba(230, 53, 0, 0);
     }
     100% {
-        box-shadow: 0 0 0 0 rgba(230, 53, 0, 0) , 0 0 0 30px rgba(230, 53, 0, 0);
+        box-shadow: 0 0 0 0 rgba(230, 53, 0, 0) , 0 0 0 50px rgba(230, 53, 0, 0);
     }
 }
