@@ -78,15 +78,15 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * [transitions](w3schools.com/css/css3_transitions.asp)
 * [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 
-### Desafio Dia 05 - Efeito Pulsar
-<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-5/dia5.gif">
+### Desafio Dia 06 - Efeito lightning text 
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-6/dia6.gif">
 
-[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-5)
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-6)
 
-[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6827361972435132416/)
+[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6827749890081263616/)
 
-[Post Twitter](https://twitter.com/manassess_san/status/1421595707610390532)
+[Post Twitter](https://twitter.com/manassess_san/status/1421984465199538181)
 
 #### O que eu aprendi
 * [animations](https://www.w3schools.com/css/css3_animations.asp)
-* [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+* [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
