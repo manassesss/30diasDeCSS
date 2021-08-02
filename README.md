@@ -90,3 +90,16 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 #### O que eu aprendi
 * [animations](https://www.w3schools.com/css/css3_animations.asp)
 * [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
+
+### Desafio Dia 07 - Preloader animado
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-7/dia7.gif">
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-7)
+
+[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6828082028798390272/)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1422315336934756354)
+
+#### O que eu aprendi
+* [animations](https://www.w3schools.com/css/css3_animations.asp)
+* [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
