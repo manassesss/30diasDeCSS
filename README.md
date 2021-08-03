@@ -103,3 +103,18 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 #### O que eu aprendi
 * [animations](https://www.w3schools.com/css/css3_animations.asp)
 * [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
+
+### Desafio Dia 08 - Coração Batendo
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-8/dia8.gif">
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-8)
+
+[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6828392349010333696/)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1422626351438344200)
+
+#### O que eu aprendi
+* [animations](https://www.w3schools.com/css/css3_animations.asp)
+* [::before](https://www.w3schools.com/cssref/sel_before.asp)
+* [::after](https://www.w3schools.com/cssref/sel_after.asp)
+* [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
