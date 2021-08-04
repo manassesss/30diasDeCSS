@@ -35,11 +35,11 @@ body {
 }
 
 .pendulo span:first-child {
-    animation: esquerdo 2s ease-in infinite;
+    animation: esquerda 2s ease-in infinite;
 }
 
 .pendulo span:last-child{
-    animation: direito 2s ease-in infinite 1s;
+    animation: direita 2s ease-in infinite 1s;
 }
 
 @keyframes esquerdo {
