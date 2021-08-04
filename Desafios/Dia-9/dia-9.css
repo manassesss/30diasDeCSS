@@ -42,7 +42,7 @@ body {
     animation: direita 2s ease-in infinite 1s;
 }
 
-@keyframes esquerdo {
+@keyframes esquerda {
     0% {
         transform: rotate(0deg);
     }
@@ -56,7 +56,7 @@ body {
         transform: rotate(0deg);
     }
 }
-@keyframes direito {
+@keyframes direita {
     0% {
         transform: rotate(0deg);
     }
