@@ -118,3 +118,21 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * [::before](https://www.w3schools.com/cssref/sel_before.asp)
 * [::after](https://www.w3schools.com/cssref/sel_after.asp)
 * [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+
+### Desafio Dia 09 -Pendulo de Newton
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-9/dia9.gif">
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-9)
+
+[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6828697015401242624/)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1422930952611934209)
+
+#### O que eu aprendi
+* [animations](https://www.w3schools.com/css/css3_animations.asp)
+* [::before](https://www.w3schools.com/cssref/sel_before.asp)
+* [::after](https://www.w3schools.com/cssref/sel_after.asp)
+* [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+* [first child](https://www.w3schools.com/cssref/sel_firstchild.asp)
+* [last child](https://www.w3schools.com/cssref/sel_last-child.asp)
+
