@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #FDE8C8;
+}
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    color: #3D3830;
+}
+
+span::before{
+    content: "";
+    animation: emote 4s infinite;
+}
+
+@keyframes emote {
+    0%{
+        font-size: 50px;
+        content:'👫🏿';
+    }
+    35%{
+        font-size: 50px;
+        content:'👬🏿';
+    }
+    50%{
+        font-size: 50px;
+        content:'👭🏿'
+    }
+    100%{
+        font-size: 50px;
+        content:'❤️';
+    }
+}
