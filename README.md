@@ -148,6 +148,22 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 #### O que eu aprendi
 * [animations](https://www.w3schools.com/css/css3_animations.asp)
 * [::before](https://www.w3schools.com/cssref/sel_before.asp)
+* 
+### Desafio Dia 11 -Botão com Efeito Hover
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-11/dia11.gif" width=900px>
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-11)
+
+[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6829480276800942080/)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1423713931290419207)
+
+#### O que eu aprendi
+* [::before](https://www.w3schools.com/cssref/sel_before.asp)
+* [:hover](https://www.w3schools.com/cssref/sel_hover.asp)
+* [Overflow](https://www.w3schools.com/css/css_overflow.asp)
+* [transitions](w3schools.com/css/css3_transitions.asp)
+* [z-index](https://www.w3schools.com/cssref/pr_pos_z-index.asp)
 
 
 
