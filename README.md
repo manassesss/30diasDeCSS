@@ -165,5 +165,18 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * [transitions](w3schools.com/css/css3_transitions.asp)
 * [z-index](https://www.w3schools.com/cssref/pr_pos_z-index.asp)
 
+### Desafio Dia 12 - Efeito de preenchimento ao passar o mouse
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-12/dia12.gif" width=900px>
 
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-12)
+
+[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6829827251652104192/)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1424060744304373762)
+
+#### O que eu aprendi
+* [::before](https://www.w3schools.com/cssref/sel_before.asp)
+* [:hover](https://www.w3schools.com/cssref/sel_hover.asp)
+* [Overflow](https://www.w3schools.com/css/css_overflow.asp)
+* [transitions](w3schools.com/css/css3_transitions.asp)
 
