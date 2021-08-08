@@ -180,3 +180,16 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * [Overflow](https://www.w3schools.com/css/css_overflow.asp)
 * [transitions](w3schools.com/css/css3_transitions.asp)
 
+### Desafio Dia 13 - Loading com efeito
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-13/dia13.gif" width=900px>
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-13)
+
+[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6830281234015424512/)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1424514449386377220)
+
+#### O que eu aprendi
+* [animations](https://www.w3schools.com/css/css3_animations.asp)
+* [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
+
