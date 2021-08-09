@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #FCE7C7;
+    font-family: 'Jost', sans-serif;
+}
+
+h1 {
+    font-size: 150px;
+    text-align: center;
+    text-transform: uppercase;
+    background: url(image.jpg);
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: text-colorfull 20s linear infinite;
+}
+
+@keyframes text-colorfull {
+    from { background-position: 0 0;}
+    to {background-position: 100% 100%;}
+}
