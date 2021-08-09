@@ -193,3 +193,16 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * [animations](https://www.w3schools.com/css/css3_animations.asp)
 * [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
 
+### Desafio Dia 14 - Fundo de texto animado
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-14/dia14.gif" width=900px>
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-14)
+
+[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6830619726062903296/)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1424853555148644352)
+
+#### O que eu aprendi
+* [animations](https://www.w3schools.com/css/css3_animations.asp)
+* [background-clip](https://www.w3schools.com/cssref/css3_pr_background-clip.asp)
+
