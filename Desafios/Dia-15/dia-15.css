@@ -1,0 +1,28 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Luckiest Guy', cursive;
+    background-color: #FCE7C7;
+}
+
+h1 {
+    text-align: center;
+    color: #E63500;
+    font-size: 90px;
+    line-height: 90px;
+    letter-spacing: 12px;
+    text-shadow: 0 1px 0 #A62700,
+                0 2px 0 #A62700,
+                0 3px 0 #A62700,
+                0 4px 0 #A62700,
+                0 25px 5px rgba(0,0,0,.2);
+    animation: flutua 3s linear infinite;
+    animation-direction: alternate;
+}
+
+@keyframes flutua {
+    from {transform: rotate(5deg);}
+    to {transform: rotate(-5deg);}
+}
