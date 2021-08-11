@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #3D3830;
+}
+
+a {
+    font-size: 40px;
+    text-decoration: none;
+    color: #FCE7C7;
+    border: 3px solid #FCE7C7;
+    padding: 40px 80px;
+    position: relative;
+    transition: all 1s;
+    overflow: hidden;
+}
+
+a::before {
+    content: "Feito!";
+    color: #3D3830;
+    background-color: #E63500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    transform: translate(-100%);
+    transition: all 0.5s;
+
+}
+
+a:hover::before {
+    transform: translateY(0);
+}
