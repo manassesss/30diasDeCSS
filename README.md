@@ -233,7 +233,7 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * [:hover](https://www.w3schools.com/cssref/sel_hover.asp)
 * [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 
-### Desafio Dia 16 - Botão com efeito
+### Desafio Dia 17 - Loader animado
 <img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-17/dia17.gif" >
 
 [Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-17)
@@ -244,3 +244,18 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 
 #### O que eu aprendi
 * [animations](https://www.w3schools.com/css/css3_animations.asp)
+
+### Desafio Dia 18 - Texto esfumaçado
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-18/dia18.gif" >
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-18)
+
+[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6831939717303468032/)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1426173298359119873)
+
+#### O que eu aprendi
+* [:hover](https://www.w3schools.com/cssref/sel_hover.asp)
+* [transitions](w3schools.com/css/css3_transitions.asp)
+* [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+* [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
