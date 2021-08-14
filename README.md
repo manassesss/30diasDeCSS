@@ -259,3 +259,18 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * [transitions](w3schools.com/css/css3_transitions.asp)
 * [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 * [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
+
+### Desafio Dia 19 - Efeitos de animação fundo de partículas
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-19/dia19.gif" >
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-19)
+
+[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6832421190708080640/)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1426654788394098689)
+
+#### O que eu aprendi
+* [animations](https://www.w3schools.com/css/css3_animations.asp)
+* [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+* [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
+* [variaveis css](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties)
