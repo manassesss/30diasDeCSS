@@ -274,3 +274,18 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 * [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
 * [variaveis css](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties)
+
+### Desafio Dia 20 - Botão com efeito
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-20/dia20.gif" >
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-20)
+
+[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6832809479176822784/)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1427043090397900810)
+
+#### O que eu aprendi
+* [::before](https://www.w3schools.com/cssref/sel_before.asp)
+* [:hover](https://www.w3schools.com/cssref/sel_hover.asp)
+* [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+* [transitions](w3schools.com/css/css3_transitions.asp)
