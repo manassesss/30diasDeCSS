@@ -287,3 +287,18 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 #### O que eu aprendi
 * [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
 * [animations](https://www.w3schools.com/css/css3_animations.asp)
+
+### Desafio Dia 22 - Icones com efeito
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-22/dia22.gif" >
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-22)
+
+[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6833541823324073984/)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1427774562071195650)
+
+#### O que eu aprendi
+* [::before](https://www.w3schools.com/cssref/sel_before.asp)
+* [:hover](https://www.w3schools.com/cssref/sel_hover.asp)
+* [transitions](w3schools.com/css/css3_transitions.asp)
+* [z-index](https://www.w3schools.com/cssref/pr_pos_z-index.asp)
