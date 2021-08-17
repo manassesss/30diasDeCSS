@@ -275,17 +275,15 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
 * [variaveis css](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties)
 
-### Desafio Dia 20 - Botão com efeito
-<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-20/dia20.gif" >
+### Desafio Dia 21 - Esferas quicando
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-21/dia21.gif" >
 
-[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-20)
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-21)
 
-[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6832809479176822784/)
+[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6833231080523382785/)
 
-[Post Twitter](https://twitter.com/manassess_san/status/1427043090397900810)
+[Post Twitter](https://twitter.com/manassess_san/status/1427464994757677057)
 
 #### O que eu aprendi
-* [::before](https://www.w3schools.com/cssref/sel_before.asp)
-* [:hover](https://www.w3schools.com/cssref/sel_hover.asp)
-* [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
-* [transitions](w3schools.com/css/css3_transitions.asp)
+* [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
+* [animations](https://www.w3schools.com/css/css3_animations.asp)
