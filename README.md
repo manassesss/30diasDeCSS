@@ -302,3 +302,30 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * [:hover](https://www.w3schools.com/cssref/sel_hover.asp)
 * [transitions](w3schools.com/css/css3_transitions.asp)
 * [z-index](https://www.w3schools.com/cssref/pr_pos_z-index.asp)
+
+### Desafio Dia 23 - Botão com efeito
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-23/dia23.gif" >
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-23)
+
+[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6834088642978332672/)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1428322296289239040)
+
+#### O que eu aprendi
+* [:hover](https://www.w3schools.com/cssref/sel_hover.asp)
+* [transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+
+### Desafio Dia 24 - Preloader animado
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-24/dia24.gif" >
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-24)
+
+[Post LinkdIn](https://www.linkedin.com/feed/update/urn:li:activity:6834096283217661952/)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1428330144381472779)
+
+#### O que eu aprendi
+* [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
+* [animations](https://www.w3schools.com/css/css3_animations.asp)
+
