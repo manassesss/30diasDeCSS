@@ -1,0 +1,33 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: changing 10s infinite;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FDE8C8;
+}
+
+@keyframes changing {
+    0% {
+        background-color: #F51625;
+    }
+    25% {
+        background-color: #F75964;
+    }
+    50% {
+        background-color: #F5C72F;
+    }
+    75% {
+        background-color: #2FF55F;
+    }
+    100% {
+        background-color: #0A27F5;
+    }
+
+}
