@@ -343,7 +343,7 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * [::before](https://www.w3schools.com/cssref/sel_before.asp)
 
 ### Desafio Dia 26 - Loading com efeito
-<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-26/dia26.gif" >
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-26/dia26-2.gif" >
 
 [Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-26)
 
