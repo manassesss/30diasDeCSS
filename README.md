@@ -329,3 +329,83 @@ A lista de desafios se encontra na [Wiki](https://github.com/manassesss/30diasDe
 * [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
 * [animations](https://www.w3schools.com/css/css3_animations.asp)
 
+### Desafio Dia 25 - Checkbox Animado
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-25/dia25.gif" >
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-25)
+
+[Post LinkdIn](https://www.linkedin.com/posts/manasses-silva_github-manassesss30diasdecss-desafio-activity-6834628385034055680-fHes)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1428862274366754817)
+
+#### O que eu aprendi
+* [animations](https://www.w3schools.com/css/css3_animations.asp)
+* [::before](https://www.w3schools.com/cssref/sel_before.asp)
+
+### Desafio Dia 26 - Loading com efeito
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-26/dia26.gif" >
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-26)
+
+[Post LinkdIn](https://www.linkedin.com/posts/manasses-silva_github-manassesss30diasdecss-desafio-activity-6834979112432529408-9s4u)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1429454276800262162)
+
+#### O que eu aprendi
+* [animations](https://www.w3schools.com/css/css3_animations.asp)
+* [::before](https://www.w3schools.com/cssref/sel_before.asp)
+* [::after](https://www.w3schools.com/cssref/sel_after.asp)
+
+### Desafio Dia 27 - Efeito pulsar
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-27/dia27.gif" >
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-27)
+
+[Post LinkdIn](https://www.linkedin.com/posts/manasses-silva_github-manassesss30diasdecss-desafio-activity-6835390372521291776-MEJS)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1429624206824812549)
+
+#### O que eu aprendi
+* [animations](https://www.w3schools.com/css/css3_animations.asp)
+* [::before](https://www.w3schools.com/cssref/sel_before.asp)
+* [::after](https://www.w3schools.com/cssref/sel_after.asp)
+
+### Desafio Dia 28 - cor do background mudando
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-28/dia28.gif" >
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-28)
+
+[Post LinkdIn](https://www.linkedin.com/posts/manasses-silva_github-manassesss30diasdecss-desafio-activity-6835736263170023424-xgyK)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1429970301903904770)
+
+#### O que eu aprendi
+* [animations](https://www.w3schools.com/css/css3_animations.asp)
+
+### Desafio Dia 29 - Menu responsivo com Media Queries
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-29/dia29.gif" >
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-29)
+
+[Post LinkdIn](https://www.linkedin.com/posts/manasses-silva_github-manassesss30diasdecss-desafio-activity-6836465504564121600-ch9k)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1430353482867949569)
+
+#### O que eu aprendi
+[@media](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@media)
+
+### Desafio Dia 30 - Fogos de artificio
+<img align="middle" src="https://github.com/manassesss/30diasDeCSS/blob/main/Desafios/Dia-30/dia30.gif" >
+
+[Meu Código](https://github.com/manassesss/30diasDeCSS/tree/main/Desafios/Dia-30)
+
+[Post LinkdIn](https://www.linkedin.com/posts/manasses-silva_30diasdecss-activity-6836465841861668864-rjm9)
+
+[Post Twitter](https://twitter.com/manassess_san/status/1430699293833318408)
+
+#### O que eu aprendi
+* [nth-child](https://www.w3schools.com/cssref/sel_nth-child.asp)
+* [animations](https://www.w3schools.com/css/css3_animations.asp)
+* [::before](https://www.w3schools.com/cssref/sel_before.asp)
+* [::after](https://www.w3schools.com/cssref/sel_after.asp)
+
